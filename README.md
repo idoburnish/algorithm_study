@@ -6,12 +6,12 @@
 
 ## 📌 진행 방식
 - 주 3회 이상 푸는 것을 목표로 합니다.
-- 언어는 JAVA를 이용합니다.
 - 문제는 [Baekjoon](https://www.acmicpc.net/), [Programmers](https://programmers.co.kr/)의 문제를 풉니다.
 	- Baekjoon: 알고리즘 별 문제 풀이
 	- Programmers: 기출 문제 풀이
 	
 <br>
+
 
 ## 📣 규칙
 > **Branch**
