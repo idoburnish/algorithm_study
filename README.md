@@ -41,5 +41,5 @@
 |1주차(220425~)|[완전이진트리](https://www.acmicpc.net/problem/9934)|[나무 위의 빗물](https://www.acmicpc.net/problem/17073)|[트리의 지름](https://www.acmicpc.net/problem/1967)|
 |2주차(220502~)|[꿀 따기](https://www.acmicpc.net/problem/21758)|[강의실 배정](https://www.acmicpc.net/problem/11000)|[행복 유치원](https://www.acmicpc.net/problem/13164)|
 |3주차(220509~)|[종이접기](https://www.acmicpc.net/problem/1802)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[샤워실 바닥깔기](https://www.acmicpc.net/problem/14600)|
-|4주차(220516~)||||
+|4주차(220516~)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[k번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|
 |5주차(220502~)|[달력](https://www.acmicpc.net/problem/20207)|[호수 홀릭 호석](https://www.acmicpc.net/problem/20164)|[빗물](https://www.acmicpc.net/problem/14719)|
