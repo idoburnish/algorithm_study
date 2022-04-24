@@ -37,7 +37,7 @@
 ## 🙋 참가자
 - 🐰 [Lee Doyoon](https://github.com/idoburnish)
 - 🐬 [Heo Hyeonjin](https://github.com/heohyeonjin)
-- 🐤 [Eom Dayeon]()
+- 🐤 [Eom Dayeon](https://github.com/eomdayeon)
 
 <br>
 
