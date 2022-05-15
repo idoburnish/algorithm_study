@@ -26,8 +26,6 @@ bool check(char paper[],int s,int e)
 
 
 
-출처: https://jaimemin.tistory.com/1784 [꾸준함]
-
 ![image](https://user-images.githubusercontent.com/69031678/168490089-f4d2a267-9eca-4b4c-8629-76531ce46898.png)
 
 
