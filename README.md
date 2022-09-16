@@ -56,7 +56,7 @@
 |9주차|[ABCDE](https://www.acmicpc.net/problem/13023)|[치즈](https://www.acmicpc.net/problem/2636)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|그래프|
 |10주차|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[순위검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|프로그래머스|
 |11주차|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[센서](https://www.acmicpc.net/problem/2212)|[우체국](https://www.acmicpc.net/problem/2141)|그리디|
-|12주차|[구슬탈출2](https://www.acmicpc.net/problem/13460)|[2048(easy)](https://www.acmicpc.net/problem/13460)|[뱀](https://www.acmicpc.net/problem/3190)|삼성SW역량기출|
+|12주차|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|KAKAO BLIND RECRUITMENT|
 |13주차|[배](https://www.acmicpc.net/problem/1092)|[크게 만들기](https://www.acmicpc.net/problem/2812)|[파일 합치기 3](https://www.acmicpc.net/problem/13975)|그리디|
 |14주차|[괄호 제거](https://www.acmicpc.net/problem/2800)|[데이터 체커](https://www.acmicpc.net/problem/22942)|[탑](https://www.acmicpc.net/problem/2493)|자료구조|
 |15주차|[공유기 설치](https://www.acmicpc.net/problem/2110)|[입국심사](https://www.acmicpc.net/problem/3079)|[두 용액](https://www.acmicpc.net/problem/2470)|이분탐색|
