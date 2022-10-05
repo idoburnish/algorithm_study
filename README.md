@@ -60,5 +60,6 @@
 |13주차|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|KAKAO BLIND RECRUITMENT|
 |14주차|[구슬탈출2](https://www.acmicpc.net/problem/13460)|[2048(easy)](https://www.acmicpc.net/problem/12100)|[뱀](https://www.acmicpc.net/problem/3190)|삼성SW역량기출|
 |15주차|[배](https://www.acmicpc.net/problem/1092)|[크게 만들기](https://www.acmicpc.net/problem/2812)|[파일 합치기 3](https://www.acmicpc.net/problem/13975)|그리디|
+|15주차|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|[테트로미노](https://www.acmicpc.net/problem/14500)|[아기 상어](https://www.acmicpc.net/problem/16236)|삼성SW역량기출|
 |16주차|[괄호 제거](https://www.acmicpc.net/problem/2800)|[데이터 체커](https://www.acmicpc.net/problem/22942)|[탑](https://www.acmicpc.net/problem/2493)|자료구조|
 |17주차|[공유기 설치](https://www.acmicpc.net/problem/2110)|[입국심사](https://www.acmicpc.net/problem/3079)|[두 용액](https://www.acmicpc.net/problem/2470)|이분탐색|
