@@ -81,3 +81,16 @@
 
 </div>
 </details>
+
+<details>
+<summary>21-30주차</summary>
+<div markdown="1">
+
+|주차|문제1|문제2|문제3|유형|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|20주차|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[동전 1](https://www.acmicpc.net/problem/2293)|[알약](https://www.acmicpc.net/problem/4811)|구현,DP|
+|21주차|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[파티](https://www.acmicpc.net/problem/1238)|[부분합](https://www.acmicpc.net/problem/1806)|문자열,그래프,투포인터|
+</div>
+</details>
+
+
