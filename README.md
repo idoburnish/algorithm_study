@@ -43,6 +43,10 @@
 
 ## 📅 일정
 
+<details>
+<summary>1-10주차</summary>
+<div markdown="1">       
+
 |주차|문제1|문제2|문제3|유형|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |1주차|[완전이진트리](https://www.acmicpc.net/problem/9934)|[나무 위의 빗물](https://www.acmicpc.net/problem/17073)|[트리의 지름](https://www.acmicpc.net/problem/1967)|트리|
@@ -55,6 +59,16 @@
 |8주차|[일루미네이션](https://www.acmicpc.net/problem/5547)|[연구소](https://www.acmicpc.net/problem/14502)|[인구이동](https://www.acmicpc.net/problem/16234)|그래프|
 |9주차|[ABCDE](https://www.acmicpc.net/problem/13023)|[치즈](https://www.acmicpc.net/problem/2636)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|그래프|
 |10주차|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[순위검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|프로그래머스|
+
+</div>
+</details>
+
+<details>
+<summary>11-20주차</summary>
+<div markdown="1">       
+
+|주차|문제1|문제2|문제3|유형|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |11주차|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[센서](https://www.acmicpc.net/problem/2212)|[우체국](https://www.acmicpc.net/problem/2141)|그리디|
 |12주차|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|KAKAO BLIND RECRUITMENT|
 |13주차|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|KAKAO BLIND RECRUITMENT|
@@ -64,3 +78,6 @@
 |17주차|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[감시](https://www.acmicpc.net/problem/15683)|[치킨 배달](https://www.acmicpc.net/problem/15686)|삼성SW역량기출|
 |18주차|[괄호 제거](https://www.acmicpc.net/problem/2800)|[데이터 체커](https://www.acmicpc.net/problem/22942)|[탑](https://www.acmicpc.net/problem/2493)|자료구조|
 |19주차|[공유기 설치](https://www.acmicpc.net/problem/2110)|[입국심사](https://www.acmicpc.net/problem/3079)|[두 용액](https://www.acmicpc.net/problem/2470)|이분탐색|
+
+</div>
+</details>
