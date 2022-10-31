@@ -78,6 +78,7 @@
 |17주차|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[감시](https://www.acmicpc.net/problem/15683)|[치킨 배달](https://www.acmicpc.net/problem/15686)|삼성SW역량기출|
 |18주차|[괄호 제거](https://www.acmicpc.net/problem/2800)|[데이터 체커](https://www.acmicpc.net/problem/22942)|[탑](https://www.acmicpc.net/problem/2493)|자료구조|
 |19주차|[공유기 설치](https://www.acmicpc.net/problem/2110)|[입국심사](https://www.acmicpc.net/problem/3079)|[두 용액](https://www.acmicpc.net/problem/2470)|이분탐색|
+|20주차|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[동전 1](https://www.acmicpc.net/problem/2293)|[알약](https://www.acmicpc.net/problem/4811)|구현,DP|
 
 </div>
 </details>
@@ -88,7 +89,6 @@
 
 |주차|문제1|문제2|문제3|유형|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|20주차|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[동전 1](https://www.acmicpc.net/problem/2293)|[알약](https://www.acmicpc.net/problem/4811)|구현,DP|
 |21주차|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[파티](https://www.acmicpc.net/problem/1238)|[부분합](https://www.acmicpc.net/problem/1806)|문자열,그래프,투포인터|
 </div>
 </details>
